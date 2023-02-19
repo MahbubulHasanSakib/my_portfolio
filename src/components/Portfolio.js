@@ -64,7 +64,7 @@ const Portfolio = () => {
             languageOrFramwork: "HTML,CSS,JS,PHP",
             frontendCode:"",
             backendCode:"https://github.com/MahbubulHasanSakib/IT-solution-provider-project",
-            link: ""
+            link: "https://mh-it.netlify.app/"
         },
        /* {
             name: "Chatbot Interface",
@@ -80,7 +80,7 @@ const Portfolio = () => {
             languageOrFramwork: "React JS",
             frontendCode:"",
             backendCode:"https://github.com/MahbubulHasanSakib/Tour-web-app-using-React-js-state-management-with-ContextAPI-excluding-props-drilling",
-            link: ""
+            link: "https://mhs-tour-app.netlify.app/"
         },
         {
             name: "Shopping Cart using ReactJs Context API and State hooks",
@@ -88,7 +88,7 @@ const Portfolio = () => {
             languageOrFramwork: "React JS",
             frontendCode:"",
             backendCode:"https://github.com/MahbubulHasanSakib/Shopping-Cart-Update-using-React-Context-API",
-            link: ""
+            link: "https://shopping-cart-update.netlify.app/"
         },
         {
             name: "Food Menu Web app using React Js useState hooks",
@@ -96,7 +96,7 @@ const Portfolio = () => {
             languageOrFramwork: "React JS",
             frontendCode:"",
             backendCode:"https://github.com/MahbubulHasanSakib/Food-Menu-Web-App-using-React-useState-hook",
-            link: ""
+            link: "https://mhs-food-menu.netlify.app/"
         }
     ];
     return (
