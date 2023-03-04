@@ -35,7 +35,7 @@ const Service = () => {
                             <div className=" service_item app_dev" data-aos="fade-down">
                             <span className="icons"><i className="fa fa-apple" aria-hidden="true"></i></span>
                             <h5>App Development</h5>
-                            <p>App development services are designed to help businesses create custom mobile applications.</p>
+                            <p>App development services are designed to help businesses create custom apps.</p>
                             
                             </div>
                         </div>
@@ -43,7 +43,7 @@ const Service = () => {
                             <div className=" service_item" data-aos="fade-down">
                             <span className="icons"><i className="fa fa-cubes" aria-hidden="true"></i></span>
                             <h5>Micro-services</h5>
-                            <p>Microservices development services are designed to help businesses create scalable and modular software solutions that can adapt to changing business requirements.</p>
+                            <p>Microservices development services are designed to create scalable software.</p>
                             
                             </div>
                         </div>
