@@ -12,8 +12,8 @@ const Hero = () => {
                         <li className="link_item"><a href="https://www.facebook.com/profile.php?id=100008005877122"><i className="fa fa-facebook"></i></a></li>
                         <li className="link_item"><a href="https://www.instagram.com/mahbubul_hasan_sakib/"><i className="fa fa-instagram"></i></a></li>
                         <li className="link_item"><a href="https://github.com/MahbubulHasanSakib"><i className="fa fa-github"></i></a></li>
-                        <li className="link_item"><a href="https://twitter.com/"><i className="fa fa-twitter"></i></a></li>
                         <li className="link_item"><a href="https://www.linkedin.com/in/mahbubul-hasan-sakib-9b102715b/"><i className="fa fa-linkedin"></i></a></li>
+                        <li className="link_item"><a href="https://www.youtube.com/channel/UCAihP0WT-e4MajMRoRaq59Q"><i className="fa fa-youtube"></i></a></li>
                     </ul>
 
 
